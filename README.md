@@ -19,7 +19,7 @@ Get logins from bugmenot
 
 [info](https://github.com/vitorgalvao/alfred-workflows/tree/master/BugNot) | [download](https://raw.githubusercontent.com/vitorgalvao/alfred-workflows/master/BugNot/BugNot.alfredworkflow)
 
-### CalmNotifications <img src='https://raw.githubusercontent.com/vitorgalvao/alfred-workflows/master/CalmNotifications/source/icon.png' width='60' align='center' alt='CalmNotifications icon'>
+### Calmtetifications <img src='https://raw.githubusercontent.com/vitorgalvao/alfred-workflows/master/CalmNotifications/source/icon.png' width='60' align='center' alt='CalmNotifications icon'>
 Toggle Do Not Disturb
 
 [info](https://github.com/vitorgalvao/alfred-workflows/tree/master/CalmNotifications) | [download](https://raw.githubusercontent.com/vitorgalvao/alfred-workflows/master/CalmNotifications/CalmNotifications.alfredworkflow)
@@ -105,7 +105,7 @@ Creates a new file in the current Finder directory
 [info](https://github.com/vitorgalvao/alfred-workflows/tree/master/NewFile) | [download](https://raw.githubusercontent.com/vitorgalvao/alfred-workflows/master/NewFile/NewFile.alfredworkflow)
 
 ### NoteTaker <img src='https://raw.githubusercontent.com/vitorgalvao/alfred-workflows/master/NoteTaker/source/icon.png' width='60' align='center' alt='NoteTaker icon'>
-Creates a new file in the current Finder directory
+Save named clipboard items for later retrieval
 
 [info](https://github.com/vitorgalvao/alfred-workflows/tree/master/NoteTaker) | [download](https://raw.githubusercontent.com/vitorgalvao/alfred-workflows/master/NoteTaker/NoteTaker.alfredworkflow)
 
